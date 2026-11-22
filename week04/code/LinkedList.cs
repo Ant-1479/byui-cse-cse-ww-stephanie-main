@@ -1,3 +1,5 @@
+// <summary>
+// A simple doubly linked list implementation.
 using System.Collections;
 
 public class LinkedList : IEnumerable<int>
